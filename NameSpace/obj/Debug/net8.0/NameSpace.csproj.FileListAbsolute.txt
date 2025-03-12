@@ -1,0 +1,14 @@
+C:\Users\elaka\OneDrive\Desktop\NameSpace\NameSpace\bin\Debug\net8.0\NameSpace.exe
+C:\Users\elaka\OneDrive\Desktop\NameSpace\NameSpace\bin\Debug\net8.0\NameSpace.deps.json
+C:\Users\elaka\OneDrive\Desktop\NameSpace\NameSpace\bin\Debug\net8.0\NameSpace.runtimeconfig.json
+C:\Users\elaka\OneDrive\Desktop\NameSpace\NameSpace\bin\Debug\net8.0\NameSpace.dll
+C:\Users\elaka\OneDrive\Desktop\NameSpace\NameSpace\bin\Debug\net8.0\NameSpace.pdb
+C:\Users\elaka\OneDrive\Desktop\NameSpace\NameSpace\obj\Debug\net8.0\NameSpace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elaka\OneDrive\Desktop\NameSpace\NameSpace\obj\Debug\net8.0\NameSpace.AssemblyInfoInputs.cache
+C:\Users\elaka\OneDrive\Desktop\NameSpace\NameSpace\obj\Debug\net8.0\NameSpace.AssemblyInfo.cs
+C:\Users\elaka\OneDrive\Desktop\NameSpace\NameSpace\obj\Debug\net8.0\NameSpace.csproj.CoreCompileInputs.cache
+C:\Users\elaka\OneDrive\Desktop\NameSpace\NameSpace\obj\Debug\net8.0\NameSpace.dll
+C:\Users\elaka\OneDrive\Desktop\NameSpace\NameSpace\obj\Debug\net8.0\refint\NameSpace.dll
+C:\Users\elaka\OneDrive\Desktop\NameSpace\NameSpace\obj\Debug\net8.0\NameSpace.pdb
+C:\Users\elaka\OneDrive\Desktop\NameSpace\NameSpace\obj\Debug\net8.0\NameSpace.genruntimeconfig.cache
+C:\Users\elaka\OneDrive\Desktop\NameSpace\NameSpace\obj\Debug\net8.0\ref\NameSpace.dll
